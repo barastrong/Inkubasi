@@ -1,4 +1,4 @@
 .env
 .env-temp
-dump-notebook.ipynb
 .venv
+dump notebooks
